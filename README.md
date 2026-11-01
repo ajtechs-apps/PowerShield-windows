@@ -1,7 +1,7 @@
-================================================================================
+
                            POWERSHIELD WINDOWS SUITE
   Kernel-grade system maintenance, telemetry hardening, and real-time hardware orchestration
-================================================================================
+
 
 Platform      : Windows 10 (Build 19041+) & Windows 11 (All Builds)
 Architecture  : x64 Native Binary
