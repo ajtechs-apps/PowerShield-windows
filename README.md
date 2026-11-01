@@ -94,7 +94,7 @@ PowerShield is distributed in two official 64-bit packaging flavors:
 ## 📱 Mobile Companion
 
 * **PowerShield for Android**: Android companion app featuring kernel cache purging, background app hibernation, battery health monitoring, and zero-telemetry device tuning.  
-  *Repository*: [github.com/ajtechs/powershield-android](https://github.com/ajtechs/powershield-android)
+  *Repository*: [github.com/ajtechs/powershield-android](https://github.com/ajtechs-apps/powershield-android)
 
 ---
 
