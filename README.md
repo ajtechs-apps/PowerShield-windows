@@ -100,7 +100,7 @@ PowerShield is distributed in two official 64-bit packaging flavors:
 
 ## 🤝 Contributing, Support & Feedback
 
-* **Bug Reports & Feature Requests**: Please file issues via the [GitHub Issue Tracker](https://github.com/ajtechs-apps/powershield-win/issues).
-* **Source Code**: [github.com/ajtechs/powershield-win](https://github.com/ajtechs-apps/powershield-win)
+* **Bug Reports & Feature Requests**: Please file issues via the [GitHub Issue Tracker](https://github.com/ajtechs-apps/powershield-windows/issues).
+* **Source Code**: [github.com/ajtechs-apps/powershield-windows](https://github.com/ajtechs-apps/powershield-windows)
 * **Star the Repo**: If you find PowerShield useful, consider giving us a star ⭐ on GitHub!
 
